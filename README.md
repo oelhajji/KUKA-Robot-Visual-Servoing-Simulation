@@ -1,7 +1,7 @@
 # KUKA Robot Visual Servoing Simulation
 
 This project implements a simulation of image-based visual servoing (IBVS) for a 7-DOF KUKA robotic manipulator equipped with a fixed camera on the end-effector. The robot uses visual feedback from a known pattern in the workspace to align its camera with a desired target pose.
-
+![illustration](illustration.png)
 ## Features
 
 - Simulates camera-in-hand visual servoing
